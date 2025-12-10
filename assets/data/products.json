@@ -1,0 +1,62 @@
+[
+  {
+    "id": "p001",
+    "name": "Beanie Hat",
+    "price": 259000,
+    "desc": "aksesoris kepala berbahan rajut",
+    "images": [
+      "assets/img/BEANIE.png",
+      "assets/img/BEANIE.png"
+    ]
+  },
+  {
+    "id": "p002",
+    "name": "Hoodie HF",
+    "price": 389000,
+    "desc": "Bahan cotton fleece 330 gsm",
+    "images": [
+      "assets/img/FRONT.png",
+      "assets/img/BACK.png"
+    ]
+  },
+  {
+    "id": "p003",
+    "name": "T-Shirt Dancing White",
+    "price": 129000,
+    "desc": "T-shirt dengan bahan cotton combed 20s",
+    "images": [
+      "assets/img/PNG.png",
+      "assets/img/PNG2.png"
+    ]
+  },
+  {
+    "id": "p004",
+    "name": "Sweater Knit",
+    "price": 349000,
+    "desc": "Sweater dengan bahan rajut",
+    "images": [
+      "assets/img/SWEATER KNIT1.png",
+      "assets/img/SWEATER KNIT2.png"
+    ]
+  },
+  {
+    "id": "p005",
+    "name": "Short Pants Cargo",
+    "price": 599000,
+    "desc": "Cargo Pants",
+    "images": [
+      "assets/img/SHORT CARGO PANTS MOCKUP WRTHWORLDD.png",
+      "assets/img/SHORT CARGO PANTS MOCKUP WRTHWORLDD.png"
+    ]
+  },
+  {
+    "id": "p006",
+    "name": "Vintage jersey Black",
+    "price": 279000,
+    "desc": "Jersey vintage boxy",
+    "images": [
+      "assets/img/VINTAGE JERSEY MOCKUP BACK.jpg",
+      "assets/img/VINTAGE JERSEY MOCKUP FRONT.jpg"
+    ]
+  }
+]
